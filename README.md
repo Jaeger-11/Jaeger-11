@@ -9,7 +9,7 @@ Frontend Developer
 *   🚀  I'm currently working on [JobTracka Web Application](http://jobtracka.vercel.app)
 *   🧠  I'm learning Next.js and TypeScript
 *   🤝  I'm open to collaborating on fun and creative projects
-*   ⚡  I'm going to make it or make it### Skills 
+*   ⚡  I'm going to make it or make it
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>

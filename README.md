@@ -6,7 +6,7 @@ Frontend Developer
 
 *   🌍  I'm based in Abuja, Nigeria
 *   ✉️  You can contact me at [damifalodun@gmail.com](mailto:damifalodun@gmail.com)
-*   🚀  I'm currently working on [JobTracka Web Application](http://jobtracka.vercel.app)
+*   🚀  I'm currently working on [TJ-FITS](http://tj-fits.vercel.app)
 *   🧠  I'm learning Next.js and TypeScript
 *   🤝  I'm open to collaborating on fun and creative projects
 *   ⚡  I'm going to make it or make it
